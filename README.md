@@ -1,6 +1,6 @@
 # Calculator
 
-Author: YASH123SHRI
+Author: - Yash Shrivastava - [@YASH123SHRI](https://github.com/YASH123SHRI)
 
 This is a basic calculator application implemented using HTML, CSS, and JavaScript. It allows users to perform simple arithmetic operations such as addition, subtraction, multiplication, and division.
 
